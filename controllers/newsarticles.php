@@ -1,6 +1,6 @@
 <?php
 
-class welcome {
+class newsarticles {
 	function index(){
 		global $request;
 		global $auth;
